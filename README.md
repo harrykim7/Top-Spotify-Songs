@@ -4,4 +4,6 @@ This simple script creates a spotify playlist populated with top 50 songs from y
 It's set up so that the first time you run it, it'll create the playlist, and then every time from then, it'll just update the playlist. Don't delete 
 the txt file that is created. 
 
+First time you run it, it'll redirect you to spotify page for authorization.  
+
 You can set the script as a cronjob so that it runs everyday or everyweek so that the playlist keeps updating automatically. 
